@@ -1,0 +1,24 @@
+body {
+    background-image: url(./assets/robert-ruggiero-ais5DBZ-heI-unsplash.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+body.on1 {
+    background-image: url(./assets/chuttersnap-eH_ftJYhaTY-unsplash.jpg);
+}
+body.on2 {
+    background-image: url(./assets/kinson-leung-ctG084PsBs8-unsplash.jpg);
+}
+body.on3 {
+    background-image: url(./assets/efe-kurnaz-RnCPiXixooY-unsplash.jpg);
+}
+body.on4 {
+    background-image: url(./assets/woman-posing-for-a-photo-3298412.jpg);
+}
+
+.bigCanvas {
+    border: 4px whitesmoke dotted;
+    background-color: transparent;
+}
